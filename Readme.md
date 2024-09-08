@@ -54,7 +54,6 @@ check that your aliases are added correctly by running
 alias
 ```
 
-
 ### Now you can use your aliases freely.
 
 ## Example
@@ -65,5 +64,5 @@ alias gc='git commit -m'
 alias gp='git push'
 alias gs='git status'
 ```
-That's it guys it's quit simple. If future I will add cool color themes for git bash windows
+That's it guys it's quit simple. If future I will add cool color themes for git bash windows.It will save your time and create these aliases with your own keys.Then you can remember these well
 
