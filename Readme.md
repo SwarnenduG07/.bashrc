@@ -54,7 +54,9 @@ check that your aliases are added correctly by running
 alias
 ```
 
+### Follow the similar steps for zsh also just replace. bashrc with .zshrc.
 ### Now you can use your aliases freely.
+
 
 ## Example
 
